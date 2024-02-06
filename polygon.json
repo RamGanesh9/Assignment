@@ -1,0 +1,22 @@
+{
+  "name": "Polygon",
+  "description": "Polygon is a protocol and a framework for building and connecting Ethereum-compatible blockchain networks. Aggregating scalable solutions on Ethereum supporting a multi-chain Ethereum ecosystem.",
+  "links": [
+    {
+      "name": "Official Website",
+      "url": "https://polygon.technology/"
+    },
+    {
+      "name": "Documentation",
+      "url": "https://docs.polygon.technology/"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/0xPolygon"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/0xPolygon"
+    }
+  ]
+}
